@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">HelloCompat</string>
+    <string name="change_color">Button</string>
+    <string name="ryans_world">Ryan\'s World!</string>
+</resources>
